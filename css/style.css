@@ -1,0 +1,13 @@
+body {
+  background: purple;
+}
+.opening {
+  text-align: center;
+  background: pink;
+}
+.details {
+  background: white;
+}
+.no-go {
+  background: red;
+}
